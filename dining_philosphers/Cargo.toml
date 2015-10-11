@@ -1,0 +1,4 @@
+[package]
+name = "dining_philosphers"
+version = "0.1.0"
+authors = ["George Lesica <george@lesica.com>"]
